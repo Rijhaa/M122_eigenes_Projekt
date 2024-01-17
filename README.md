@@ -3,9 +3,11 @@
 
 Im Rahmen des Scripting-Projekts im M122-Modul habe ich mich für die Entwicklung eines Python-Skripts entschieden, welches Informationen aus Word-Dateien extrahiert und in eine PowerPoint-Präsentation umwandelt. Als Informatikerin im zweiten Lehrjahr möchte ich diese Gelegenheit nutzen, um effiziente Workflows zu implementieren und die täglichen Aufgaben durch die Automatisierung von Dokumentenerstellungsprozessen zu vereinfachen.
 
+
 ## Funktion 🎯
 
 o	Automatisierung vom Extrahieren von Informationen aus Word-Dateien in eine PowerPoint-Präsentation umwandelt werden.
+
 
 ## Kurzanleitung zur Verwendung des Skripts ⚙️
 

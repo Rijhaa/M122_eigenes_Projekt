@@ -20,5 +20,3 @@ Nachdem man das Skript programmiert hat oder das obige Beispiel-Skript kopiert h
 
 4.	Skriptintegration
 Führen Sie das Skript aus.
-
-
